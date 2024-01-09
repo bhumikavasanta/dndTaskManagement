@@ -1,3 +1,11 @@
+# Steps to run Application
+1. git clone https://github.com/bhumikavasanta/task-management.git
+2. npm i
+3. npm start
+
+# Live Link of Application
+https://659cff2fa742b47f6cb34931--bespoke-syrniki-968f05.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
