@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  background-color: #A3B18A;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #344E41; 
+  width: 100%;
+  padding: 2rem 0;
+  flex-grow: 0.01;
+  flex-wrap: wrap;
+}
+
+.header-title {
+  margin: 0;
+  color: white;
+  font-size: xxx-large;
+}
+
+.add-task {
+  padding-top: 1rem;
+}
